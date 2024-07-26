@@ -87,16 +87,23 @@ Com mais de 7 anos de experiência em desenvolvimento de software, minha experti
 
 </a>
 
- <p align="center">
-<a href="https://github.com/taisazevedo9">
+  
+<br/>
+   <p align="center">
+      <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taisazevedo9&theme=github_dark" alt="Walid's github stats"/>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=taisazevedo9&theme=github_dark" alt="Walid's github stats"/>
+ 
+   </p>
+ <br/>
+   <p align="center">
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=taisazevedo9&theme=github_dark"/>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=taisazevedo9&theme=github_dark"/>
 
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=taisazevedo9&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" alt="Walid's github stats"/>
-
-</a>
-
+   </p> 
 <br/>
 
-</p >
+
+
 
 
 <br/>
