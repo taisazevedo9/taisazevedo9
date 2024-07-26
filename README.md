@@ -134,7 +134,7 @@ Com mais de 7 anos de experiência em desenvolvimento de software, minha experti
   
 <img height="50" width="50" href="https://www.linkedin.com/in/azevedot/" src="https://user-images.githubusercontent.com/52845731/209470715-eaf3665c-c0c2-4ef2-b0de-3d22b3a24242.png" hspace="10"/>
  
-<img height="50" width="50" href="https://instagram.com/tais.silva.azevedo" src="https://user-images.githubusercontent.com/52845731/209470659-9919fd0b-25f5-40ee-8a8e-5371fba33e7e.png" hspace="10"/>
+<a href="https://instagram.com/tais.silva.azevedo" target="_blank"><img height="50" width="50" href="https://instagram.com/tais.silva.azevedo" src="https://user-images.githubusercontent.com/52845731/209470659-9919fd0b-25f5-40ee-8a8e-5371fba33e7e.png" hspace="10"/></a>
 
 
 </div>
