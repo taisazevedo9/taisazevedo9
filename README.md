@@ -130,10 +130,10 @@ Com mais de 7 anos de experiência em desenvolvimento de software, minha experti
 
 <div align="center">
   
-<img height="50" width="50" href="mailto:taisazevedo9@gmail.com" src="https://api.iconify.design/logos:google-gmail.svg" hspace="10"/>
-  
-<img height="50" width="50" href="https://www.linkedin.com/in/azevedot/" src="https://user-images.githubusercontent.com/52845731/209470715-eaf3665c-c0c2-4ef2-b0de-3d22b3a24242.png" hspace="10"/>
- 
+<a href="mailto:taisazevedo9@gmail.com" target="_blank"><img height="50" width="50" href="mailto:taisazevedo9@gmail.com" src="https://api.iconify.design/logos:google-gmail.svg" hspace="10"/>
+ </a> 
+<a href="https://www.linkedin.com/in/azevedot/" target="_blank"><img height="50" width="50" href="https://www.linkedin.com/in/azevedot/" src="https://user-images.githubusercontent.com/52845731/209470715-eaf3665c-c0c2-4ef2-b0de-3d22b3a24242.png" hspace="10"/>
+ </a>
 <a href="https://instagram.com/tais.silva.azevedo" target="_blank"><img height="50" width="50" href="https://instagram.com/tais.silva.azevedo" src="https://user-images.githubusercontent.com/52845731/209470659-9919fd0b-25f5-40ee-8a8e-5371fba33e7e.png" hspace="10"/></a>
 
 
