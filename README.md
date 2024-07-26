@@ -11,7 +11,7 @@
 <p align="center">
  
 <a href="https://github.com/taisazevedo9"> 
- <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=80&lines=Tais+Azevedo;desenvolvedora+de+software+na+Join+Tecnologia+&+Design+com+expertise+em+PHP+e+Laravel+Engineering+;Full+Stack+Developer+%7C+J2EE+with+Angular+%7C+MERN+%7C+Laravel+%7C+Python; ; " alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=100&multiline=true&width=550&height=80&lines=TAÍS+AZEVEDO;Desenvolvedora+de+software+com+expertise+em+PHP.; ; " alt="Typing SVG" />
 </a>
 
 <br/>
@@ -34,7 +34,7 @@ Com mais de 7 anos de experiência em desenvolvimento de software, minha experti
 <!--Skills-->
 
 <a href="https://github.com/taisazevedo9">
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 </a>
  
 
@@ -44,7 +44,7 @@ Com mais de 7 anos de experiência em desenvolvimento de software, minha experti
 </h3>
 
 <a href="https://github.com/taisazevedo9">
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 </a>
 
 <br>
@@ -66,14 +66,9 @@ Com mais de 7 anos de experiência em desenvolvimento de software, minha experti
 </div>
 
 
-
 <a href="https://github.com/taisazevedo9">
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 </a>
-
-
-
-<!--STATS-->
 
 
 <h3 align="center">
@@ -83,21 +78,20 @@ Com mais de 7 anos de experiência em desenvolvimento de software, minha experti
 </h3>
 
 <a href="https://github.com/taisazevedo9">
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
-
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 </a>
 
   
 <br/>
    <p align="center">
-      <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taisazevedo9&theme=github_dark" alt="Walid's github stats"/>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=taisazevedo9&theme=github_dark" alt="Walid's github stats"/>
+      <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taisazevedo9&theme=synthwave" alt="Walid's github stats"/>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=taisazevedo9&theme=synthwave" alt="Walid's github stats"/>
  
    </p>
  <br/>
    <p align="center">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=taisazevedo9&theme=github_dark"/>
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=taisazevedo9&theme=github_dark"/>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=taisazevedo9&theme=synthwave"/>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=taisazevedo9&theme=synthwave"/>
 
    </p> 
 <br/>
